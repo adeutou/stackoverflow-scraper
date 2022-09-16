@@ -29,6 +29,8 @@ let filter_1 = {
     tagged: 'webcrypto-api',
     sort: 'votes',
     order: 'desc',
+    is_accepted: true,
+    accepted: true,
     
 };
 
@@ -38,6 +40,8 @@ let filter_2 = {
     tagged: 'cryptojs',
     sort: 'votes',
     order: 'desc',
+    is_accepted: true,
+    accepted: true,
     
 };
 
@@ -47,6 +51,8 @@ let filter_3 = {
     tagged: 'javascript;cryptography',
     sort: 'votes',
     order: 'desc',
+    is_accepted: true,
+    accepted: true,
     
 };
 
