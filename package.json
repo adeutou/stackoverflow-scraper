@@ -1,14 +1,13 @@
 {
   "name": "stackoverflow_scraper",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon index.js",
     "start": "node index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Albert deutou",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^16.0.2",
@@ -17,5 +16,14 @@
     "request": "^2.88.2",
     "request-promise": "^4.2.6",
     "stackexchange": "^2.0.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adeutou/stackoverflow-scraper.git"
+  },
+  "bugs": {
+    "url": "https://github.com/adeutou/stackoverflow-scraper/issues"
+  },
+  "homepage": "https://github.com/adeutou/stackoverflow-scraper#readme",
+  "description": ""
 }
